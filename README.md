@@ -4,7 +4,7 @@
 - This concept will help the government to create a centralized database of the health of citizens.
 
 # Screenshots
-<img width="400" src="SS/ss1.jpg">
+<img width="300" src="SS/ss1.jpg">
 ![](SS/ss1.jpg)
 ![](SS/ss2.jpg)
 ![](SS/ss3.jpg)
