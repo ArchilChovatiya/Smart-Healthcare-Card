@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.shrewd.healthcard.Fragment.AboutFragment"
+        android:label="fragment_about"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/analysisFragment"
+        android:name="com.shrewd.healthcard.Fragment.AnalysisFragment"
+        android:label="fragment_analysis"
+        tools:layout="@layout/fragment_analysis" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.shrewd.healthcard.Fragment.HistoryFragment"
+        android:label="fragment_history"
+        tools:layout="@layout/fragment_history" />
+    <fragment
+        android:id="@+id/homeRemediesFragment"
+        android:name="com.shrewd.healthcard.Fragment.HomeRemediesFragment"
+        android:label="fragment_home_remedies"
+        tools:layout="@layout/fragment_home_remedies" />
+    <fragment
+        android:id="@+id/patientFragment"
+        android:name="com.shrewd.healthcard.Fragment.PatientFragment"
+        android:label="fragment_patient"
+        tools:layout="@layout/fragment_patient" />
+    <fragment
+        android:id="@+id/reportsFragment"
+        android:name="com.shrewd.healthcard.Fragment.ReportsFragment"
+        android:label="fragment_reports"
+        tools:layout="@layout/fragment_reports" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.shrewd.healthcard.Fragment.HomeFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/verifyFragment"
+        android:name="com.shrewd.healthcard.Fragment.VerifyFragment"
+        android:label="fragment_verify"
+        tools:layout="@layout/fragment_verify" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.shrewd.healthcard.Fragment.SettingsFragment"
+        android:label="SettingsFragment" />
+</navigation>

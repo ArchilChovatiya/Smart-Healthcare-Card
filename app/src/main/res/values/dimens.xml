@@ -1,0 +1,6 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="icon">@dimen/_35sdp</dimen>
+    <dimen name="padding_icon">@dimen/_3sdp</dimen>
+    <dimen name="header_text_size">@dimen/_18sdp</dimen>
+</resources>

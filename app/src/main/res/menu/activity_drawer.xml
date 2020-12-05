@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grpCategory"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@id/verifyFragment"
+            android:checked="true"
+            android:visible="false"
+            android:icon="@drawable/verified_user"
+            android:title="Verify" />
+
+        <item
+            android:id="@id/homeFragment"
+            android:checked="true"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+        <item
+            android:id="@id/historyFragment"
+            android:icon="@mipmap/history"
+            android:title="History"
+            android:visible="false" />
+
+        <item
+            android:id="@id/reportsFragment"
+            android:icon="@mipmap/report"
+            android:title="Reports"
+            android:visible="false" />
+
+        <item
+            android:id="@id/patientFragment"
+            android:icon="@mipmap/patient"
+            android:title="Patient"
+            android:visible="false" />
+
+        <item
+            android:id="@id/analysisFragment"
+            android:icon="@mipmap/analysis"
+            android:title="Analysis"
+            android:visible="false" />
+
+        <item
+            android:id="@id/settingsFragment"
+            android:icon="@drawable/setting"
+            android:title="Settings" />
+
+        <item
+            android:id="@id/aboutFragment"
+            android:icon="@mipmap/about"
+            android:title="Out Team" />
+
+        <item
+            android:id="@+id/navLogout"
+            android:checkable="false"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+
+    </group>
+
+</menu>

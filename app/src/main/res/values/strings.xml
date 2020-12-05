@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HealthCard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="login"><u><b>Login</b></u></string>
+    <string name="sign_up"><u><b>Sign up</b></u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="message_write_error">Error Writing Message !</string>
+    <string name="message_write_success">Successfully written to Tag !</string>
+    <string name="message_write_progress">Writing to Tag..</string>
+    <string name="message_tag_detected">NFC Tag Detected !</string>
+    <string name="message_read_tag">Read from NFC Tag</string>
+    <string name="message_write_tag">Write to NFC Tag</string>
+    <string name="message_tap_tag">Tap the NFC Tag to your device !</string>
+    <string name="hint_message">Message</string>
+    <string name="already_a_verified_user_logout">Already a verified user? <b><u>LOGIN</u></b></string>
+    <string name="about">Store all the health related day to day data centrally. Doctor can keep all the records of patient\'host health and patients can manage all the cases of his/her lifetime.By analysis of data retrieve the health trends of different cities and area which is useful for government to focus on new disease at the earliest stage</string>
+    <string name="default_notification_channel_id">111</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="google_maps_api_key">AIzaSyA2CugAiZxluwXnjsqgXtLNY-fgaVDe5y4</string>
+</resources>

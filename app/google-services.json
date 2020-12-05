@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855994242718",
+    "firebase_url": "https://healthcard-463ca.firebaseio.com",
+    "project_id": "healthcard-463ca",
+    "storage_bucket": "healthcard-463ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855994242718:android:a0b6f4cbb025054df54d8f",
+        "android_client_info": {
+          "package_name": "com.shrewd.healthcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855994242718-i043ols404ksssqh2q644skfkjv8ikkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shrewd.healthcard",
+            "certificate_hash": "f550738300692337c97092fb58599d6522b9aa67"
+          }
+        },
+        {
+          "client_id": "855994242718-jsqm6pm13p78csn3cv2u7sa4f936g4kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8gFFxNcGCXKXHgN-FBLcTcmP-DevxaWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855994242718-jsqm6pm13p78csn3cv2u7sa4f936g4kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
